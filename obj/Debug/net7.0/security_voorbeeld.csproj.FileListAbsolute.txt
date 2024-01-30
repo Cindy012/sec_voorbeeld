@@ -82,3 +82,4 @@ C:\Users\Cindy\Documents\Windesheim\security_voorbeeld\obj\Debug\net7.0\refint\s
 C:\Users\Cindy\Documents\Windesheim\security_voorbeeld\obj\Debug\net7.0\security_voorbeeld.pdb
 C:\Users\Cindy\Documents\Windesheim\security_voorbeeld\obj\Debug\net7.0\security_voorbeeld.genruntimeconfig.cache
 C:\Users\Cindy\Documents\Windesheim\security_voorbeeld\obj\Debug\net7.0\ref\security_voorbeeld.dll
+C:\Users\Cindy\Documents\Windesheim\security_voorbeeld\obj\Debug\net7.0\security_voorbeeld.sourcelink.json
