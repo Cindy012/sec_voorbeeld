@@ -14,12 +14,14 @@ namespace security_voorbeeld.Controllers
             _logger = logger;
         }
 
+        [Route("/api/[controller]")]
         public IActionResult Index()
         {
             return View();
         }
 
         [Authorize(Roles = "Admin")]
+        [Route("/api/Privacy")]
         public IActionResult Privacy()
         {
             return View();
